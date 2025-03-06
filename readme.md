@@ -1,10 +1,53 @@
 # 99Tech Code Challenge #1 #
 
-Note that if you fork this repository, your responses may be publicly linked to this repo.  
-Please submit your application along with the solutions attached or linked.   
+Run below command for testings.
 
-It is important that you minimally attempt the problems, even if you do not arrive at a working solution.
+## Problem 1 ##
+Run New Terminal CLI
+> cd .\src\problem1\
+> node .\main.js
 
-## Submission ##
-You can either provide a link to an online repository, attach the solution in your application, or whichever method you prefer.
-We're cool as long as we can view your solution without any pain.
+
+## Problem 2 ##
+Please see readme.md file at .\src\problem3\
+
+
+## Problem 3 ##
+Run New Terminal CLI
+> cd .\src\problem2\currency-swap\
+> npm i
+
+Run development mode
+> npm run dev
+Go to localhost:   http://localhost:5173/
+
+Build project
+> npm run build
+
+Here is my deployed URL: http://27.74.250.199:45173/
+
+
+## Problem 4 ##
+Run New Terminal CLI
+> cd .\src\problem4\
+> npx tsc .\main.ts
+> node .\main.js
+
+
+## Problem 5 ##
+Run New Terminal CLI
+> cd .\problem5\api-server\
+> npm i
+
+Run development mode
+> npm run start:dev
+Go to localhost: http://localhost:3000/api
+
+Build project
+> npm run build
+
+Here is my deployed URL: http://27.74.250.199:4300/api
+
+
+## Problem 6 ##
+Please see readme.md file at .\src\problem6\
